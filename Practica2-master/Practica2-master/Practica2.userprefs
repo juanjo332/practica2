@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Practica2/Cronometro.cs">
+    <Files>
+      <File FileName="Practica2/Cronometro.cs" Line="24" Column="4" />
+      <File FileName="Practica2/Principal.cs" Line="33" Column="2" />
+      <File FileName="Practica2/Reloj.cs" Line="36" Column="84" />
+      <File FileName="Practica2/Utilerias.cs" Line="14" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Practica2" expanded="True">
+            <Node name="Cronometro.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
